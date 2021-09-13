@@ -1,0 +1,10 @@
+
+.App {
+    max-width: 320px; 
+    border-radius: 20px; 
+    background-color: #fff; 
+    min-height: 550px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}

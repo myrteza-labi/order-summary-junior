@@ -1,0 +1,32 @@
+.Planbox {
+    background-color: #f8f9fe; 
+    width: 80%; 
+    margin: auto; 
+    border-radius: 15px; 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: space-evenly; 
+    align-items: center;
+    padding: 20px; 
+}
+
+.Annualplan {
+    font-family: "Secular One", Arial, sans-serif; 
+    font-size: 14px; 
+}
+
+.PlanPrice {
+    font-family: Roboto; 
+    color: #909090; 
+    font-size: 14px; 
+}
+.ContainerPlanPrice {
+    line-height: 0.5; 
+}
+
+.ChangePlanLink {
+    font-family: Arial; 
+    font-weight: 900;
+    font-size: 14px;  
+    color: rgb(80, 22, 194); 
+}

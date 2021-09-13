@@ -1,0 +1,20 @@
+.Header {
+    padding: 30px; 
+    display: flex; 
+    flex-direction: column; 
+    justify-content: center; 
+}
+
+.Header h1 {
+    font-family: "Secular One"; 
+    font-weight: 200; 
+    margin: auto; 
+    font-size: 22px; 
+    color: hsl(223, 47%, 23%); 
+}
+.Header p {
+    font-family: Roboto; 
+    color: #8c93a1; 
+    line-height: 1.7; 
+    text-align: center; 
+}

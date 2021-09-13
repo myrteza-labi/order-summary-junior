@@ -1,0 +1,17 @@
+.PaymentBtn {
+    width: 100%; 
+    display: flex; 
+    justify-content: center; 
+}
+
+.PaymentBtn button {
+    width: 85%;
+    height: 50px; 
+    border-radius: 10px; 
+    border: none; 
+    font-family: "Secular One"; 
+    color: #fff; 
+    background-color:  hsl(245, 75%, 52%);
+    box-shadow:hsl(225, 100%, 94%) 0px 15px 15px 0px; 
+    margin: 20px; 
+}

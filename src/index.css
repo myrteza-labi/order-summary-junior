@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Red+Hat+Display|Secular+One|Roboto');
+
+body{
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+    background-image: url(./images/pattern-background-desktop.svg); 
+    background-color: hsl(225, 100%, 94%); 
+    background-repeat: no-repeat; 
+    background-position: center;
+    height: 100vh; 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    align-items: center; 
+}
